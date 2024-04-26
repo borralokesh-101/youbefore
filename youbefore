@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amazon-like Web Application</title>
+  <!-- Add your CSS stylesheets and JavaScript files here -->
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>Welcome to our Web Application</h1>
+    <!-- Add your navigation menu here -->
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <section>
+      <h2>Product Catalog</h2>
+      <!-- Display the product catalog here -->
+    </section>
+
+    <section>
+      <h2>Search Catalog</h2>
+      <!-- Add the search bar here -->
+    </section>
+
+    <section>
+      <h2>Filters</h2>
+      <!-- Add the filters options here -->
+    </section>
+
+    <section>
+      <h2>Reviews and Ratings</h2>
+      <!-- Display the product reviews and ratings here -->
+    </section>
+
+    <section>
+      <h2>User Subscription</h2>
+      <!-- Add the subscription form here -->
+    </section>
+
+    <section>
+      <h2>User Login</h2>
+      <!-- Add the login form here -->
+    </section>
+
+    <section>
+      <h2>One-Click Ordering</h2>
+      <!-- Add the one-click ordering functionality here -->
+    </section>
+
+    <section>
+      <h2>Suggested Products</h2>
+      <!-- Display the suggested products based on browsing history here -->
+    </section>
+
+    <section>
+      <h2>Gaming Zone</h2>
+      <!-- Add the gaming zone content here -->
+    </section>
+
+    <section>
+      <h2>Offers</h2>
+      <!-- Display the offers for frequent customers here -->
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <!-- Add your footer content here -->
+  </footer>
+</body>
+</html>
